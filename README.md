@@ -27,3 +27,6 @@ The objective of this project is to analyze hotel booking data to identify trend
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/7fcb5312-baff-4749-b522-bc8ca8c05a25)
 
+## Conclusion
+The analysis of hotel booking cancellations shows that City Hotels not only receive the highest number of bookings but also face a significantly higher cancellation rate, especially among couples and during peak months like August. Although Desired rooms are preferred by most guests, they still experience a high number of cancellations, indicating that factors such as pricing, policy flexibility, or changing travel plans may influence guest decisions. Interestingly, Un-Desired rooms have fewer cancellations, suggesting those guests are more committed. These insights highlight the importance of understanding seasonal trends and guest behavior to reduce cancellations, improve customer retention, and support better decision-making for hotel management.
+
