@@ -4,20 +4,26 @@
 The objective of this project is to analyze hotel booking data to identify trends, patterns, and key factors contributing to booking cancellations. By visualizing the data through an interactive dashboard, the project aims to help hotel management understand customer behavior, track cancellation rates across different hotel types, guest types, room preferences, and time periods, and derive actionable insights to reduce future cancellations and optimize booking strategies.
 
 ## Questions
-What is the total number of bookings?
+1. What is the total number of bookings?
 
-How many bookings were cancelled in total?
+2. How many bookings were cancelled in total?
 
-What percentage of total bookings were cancelled?
+3. What percentage of total bookings were cancelled?
 
-Which hotel type had more total bookings – City Hotel or Resort Hotel?
+4. Which hotel type had more total bookings – City Hotel or Resort Hotel?
 
-Which hotel type had a higher cancellation rate?
+5. Which hotel type had a higher cancellation rate?
 
-What percentage of total bookings came from City Hotel and Resort Hotel respectively?
+6. What percentage of total bookings came from City Hotel and Resort Hotel respectively?
 
-What percentage of cancelled bookings were from City Hotel versus Resort Hotel?
+7. What percentage of cancelled bookings were from City Hotel versus Resort Hotel?
 
-Which guest type (Couples, Family, Single) made the most bookings?
+8. Which guest type (Couples, Family, Single) made the most bookings?
 
-Which guest type had the most cancellations?
+9. Which guest type had the most cancellations?
+
+10. What is the cancellation rate for each guest type?
+
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/7fcb5312-baff-4749-b522-bc8ca8c05a25)
+
